@@ -1,0 +1,2 @@
+# Neural-Network-and-CNN-Model-Comparison-for-MNIST-Dataset
+A project comparing Neural Networks (NN) and Convolutional Neural Networks (CNN) on the MNIST dataset. Includes data preprocessing, model creation with configurable parameters, training with/without dropout, and performance evaluation. Features accuracy/loss plots, confusion matrices, and best model selection based on validation accuracy.
